@@ -8,7 +8,7 @@ Initial Example Classifications
 3. Forms 
 4. "Other Weird Stuff"
 
-Data To Be Extracted from Each PDF Document in the Repo
+**Data To Be Extracted from Each PDF Document in the Repo**
 
 2011rs-Issue-Papers.other.pdf - 
 
